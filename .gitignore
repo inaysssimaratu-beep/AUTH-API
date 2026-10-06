@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.db
+src/generated/prisma/
+
+.DS_Store
+.claude/
+.agents/
+.windsurf/
